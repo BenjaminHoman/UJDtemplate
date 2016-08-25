@@ -1,5 +1,0 @@
-com\ujd\sharedutils\config\Config.class
-com\ujd\sharedutils\model\Filter.class
-com\ujd\sharedutils\datainterface\DatabaseConnection.class
-com\ujd\sharedutils\datainterface\PersistentDatabaseConnection.class
-com\ujd\sharedutils\model\FunctionParameters.class
